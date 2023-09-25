@@ -9,3 +9,5 @@ In non-contractual churn settings, like most ecommerce businesses, the time of a
 Customers often vary dramatically in their behaviour - some order weekly and others order annually.  If a customer normally orders from you every month and hasn’t shopped for a year, do you really think they’re still alive?
 
 [Medium post with Step by step Explanation](https://medium.com/@shahadmohammed111111/how-to-calculate-customer-lifetime-value-cltv-using-bg-nbd-model-in-python-f2ac2a23b1c1)
+
+[Download data from here](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
